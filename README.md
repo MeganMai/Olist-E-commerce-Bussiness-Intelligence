@@ -1,5 +1,5 @@
 # Olist-E-commerce-Bussiness-Intelligence
-Using SQL, Python and Power BI to analyze and visualize e-commerce data from Olist - the leading Brizilian e-commerce platform
+Using SQL, Python and Power BI to analyze and visualize e-commerce data from Olist - the leading Brazilian e-commerce platform
 There are two main parts:
 1. Seller Intelligence
 2. Product Atrribute
